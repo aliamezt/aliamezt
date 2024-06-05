@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliamezt
 - 👀 I’m interested in business analytics, marketing analytics, and data science!
-- 🌱 I’m currently learning Business Analytics, Consumer Analytics
+- 🌱 I’m currently learning Business Analytics, Consumer Analytics, Analytics for Marketing Decisions
 - 📫 How to reach me email!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a food blog!
